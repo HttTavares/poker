@@ -1,0 +1,4 @@
+https://poker.readthedocs.io/en/latest/basic.html#implementing-a-deck
+
+
+
